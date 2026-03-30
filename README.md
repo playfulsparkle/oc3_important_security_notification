@@ -24,7 +24,7 @@ The **Playful Sparkle - Important Security Notification** extension for OpenCart
 
 ## Support & Inquiries
 
-For assistance or inquiries related to this extension, please open an issue on this repository or contact us via email at [support@playfulsparkle.com](mailto:support@playfulsparkle.com).
+For assistance or inquiries related to this extension, please open an issue on this repository, visit our [url=https://support.playfulsparkle.com]support website[/url], or contact us via email at [support@playfulsparkle.com](mailto:support@playfulsparkle.com).
 
 ---
 
